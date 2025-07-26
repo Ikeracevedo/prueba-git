@@ -1,2 +1,2 @@
-print("Hola desde el login, comprobando verificacion!")
+print("Hola Servidor inicial!")
 print("Que tal va el curso?")
